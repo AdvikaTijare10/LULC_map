@@ -111,5 +111,5 @@ A full classified map was generated using the trained model and added to the map
 
 ```javascript
 Map.addLayer(lulc, {}, "LULC", true);
-
+```
 The final LULC map looks like this->[View LULC map of Pune and nearby regions](LULC_finalMap.png)
