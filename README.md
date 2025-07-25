@@ -75,10 +75,10 @@ You can preview images that highlight training data and map layers:
 
 | Description | Link |
 |-------------|------------|
-| Water Training Points Map | ![Water](waterTP.png) |
-| Vegetation Training Points Map | ![Vegetation](greenLandTP.png) |
-| Built-up Training Points Map | ![Built-up](builtUpTP.png) |
-| Barren Land Training Points Map | ![Barren](barrenLandTP.png) |
+| Water Training Points Map | [Water](waterTP.png) |
+| Vegetation Training Points Map | [Vegetation](greenLandTP.png) |
+| Built-up Training Points Map | [Built-up](builtUpTP.png) |
+| Barren Land Training Points Map | [Barren](barrenLandTP.png) |
 
 
 
