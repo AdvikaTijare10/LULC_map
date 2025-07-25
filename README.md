@@ -112,4 +112,5 @@ A full classified map was generated using the trained model and added to the map
 ```javascript
 Map.addLayer(lulc, {}, "LULC", true);
 ```
-The final LULC map looks like this->[View LULC map of Pune and nearby regions](LULC_finalMap.png)
+The final LULC map looks like this->[View LULC map of Pune and nearby regions](LULC_finalMap.png).
+The red area marks the built up region, blue represents water, light brown tells about barren land and green tells about the vegetation as well as cultivated land.
