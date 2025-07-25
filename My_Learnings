@@ -1,0 +1,12 @@
+Working on this project has been a truly rewarding experience. It’s my first dedicated project in the field of remote sensing, and throughout the process, I learned a lot—both technically and personally.
+
+One of the most challenging parts was manually identifying and marking the training points accurately. It took time and patience, but it also helped me better understand how land use and land cover appear in satellite imagery.
+
+Initially, I started experimenting on Google Colab, but while exploring further, I realized how important and powerful Google Earth Engine (GEE) is for remote sensing projects. Learning how to use GEE opened up a whole new world of possibilities.
+
+I also tried out different classification models like SVM and CART, but I found that Random Forest gave the best accuracy for my dataset. Playing around with different models helped me understand the impact of parameter tuning and model selection on results.
+
+Beyond coding and analysis, I also learned many new technical terms and concepts—such as spectral bands, how satellites capture images, and the underlying technology involved in remote sensing.
+
+This project required a lot of patience, experimentation, and continuous learning, but it was fun and fulfilling. It’s given me a solid foundation and made me even more curious about remote sensing and geospatial analysis.
+
