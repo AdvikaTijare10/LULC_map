@@ -74,10 +74,10 @@ You can preview images that highlight training data and map layers:
 
 | Description | Dummy Link |
 |-------------|------------|
-| Water Training Points Map | ![Water](images/water_training.png) |
-| Vegetation Training Points Map | ![Vegetation](images/vegetation_training.png) |
-| Built-up Training Points Map | ![Built-up](images/builtup_training.png) |
-| Barren Land Training Points Map | ![Barren](images/barren_training.png) |
+| Water Training Points Map | ![Water](waterTP.png) |
+| Vegetation Training Points Map | ![Vegetation](greenLandTP.png) |
+| Built-up Training Points Map | ![Built-up](builtUpTP.png) |
+| Barren Land Training Points Map | ![Barren](barrenLandTP.png) |
 
 > 🔁 Replace the above `images/*.png` with your actual file paths when uploading.
 
