@@ -35,7 +35,8 @@ This spatial extent provides a diverse landscape mix, making it ideal for LULC c
   - Cloud masking using `QA60` band (bits 10 and 11)
   - Image clipped to AOI and mosaicked using `.median()`
 
--The actual satellite image of the area of interest -> satelliteImagery.png
+-The actual satellite image of the area of interest -> [View Satellite Image](satelliteImagery.png)
+
 
 ## 📦 Feature Bands and Indices
 
